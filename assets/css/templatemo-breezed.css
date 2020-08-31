@@ -1156,6 +1156,17 @@ testimonials
 
 #testimonials .item .member-thumb {
   position: relative;
+  
+  
+  
+}
+
+cite img {
+  height: 180px;
+  width: 10px;
+  border-radius: 50%;
+  margin-right: 10px;
+  
 }
 
 #testimonials .item .hover-effect {

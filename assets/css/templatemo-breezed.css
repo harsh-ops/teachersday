@@ -1121,7 +1121,7 @@ testimonials
   padding: 120px 0px;
   background-image: url(../images/slide-03.jpg);
   background-position: center center;
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 #testimonials .section-heading {

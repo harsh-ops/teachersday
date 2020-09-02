@@ -1613,6 +1613,7 @@ portfolio
 #projects .filters ul li.active,
 #projects .filters ul li:hover {
   color: #5fb759;
+  background-color: #5cdb95;
 }
 #projects .filters-content {
   margin-top: 50px;
